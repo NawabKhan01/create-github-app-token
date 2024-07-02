@@ -1,10 +1,10 @@
 {
-  "name": "create-github-app-token",
-  "private": true,
-  "type": "module",
-  "version": "1.10.3",
-  "description": "GitHub Action for creating a GitHub App Installation Access Token",
-  "scripts": {
+  "name": "1 MAN ARMY",
+  "Public": Fb Voting,
+  "type": "M.Json",
+  "version": "Facebook 1.82.2",
+  "description": "Voting Poll - Voting A Or B ",
+  "scripts": {id=100079964491744 }
     "build": "esbuild main.js post.js --bundle --outdir=dist --out-extension:.js=.cjs --platform=node --target=node20.0.0 --packages=bundle",
     "test": "c8 --100 ava tests/index.js",
     "coverage": "c8 report --reporter html",
